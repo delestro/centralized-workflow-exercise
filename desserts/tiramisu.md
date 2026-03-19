@@ -1,4 +1,4 @@
-# Tiramisú recipe
+# Vegan tiramisú recipe
 
 Inspired by: [https://veganonboard.com/easy-vegan-tiramisu/](https://veganonboard.com/easy-vegan-tiramisu/).
 
