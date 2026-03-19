@@ -1,5 +1,7 @@
 # Glutenfree Pizza Dougth recipe 
 
+ ## Ingredients
+
 - 100g mays flour 
 - 100g almond flour 
 - 50g glutenfree oats
@@ -7,7 +9,8 @@
 - 2dl water 
 - 1dl oil 
 
-# instructions 
+## Instructions 
+
 - grind the oats 
 - mix the flour, bakingsoda and oats together
 - then add water 
