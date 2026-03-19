@@ -1,6 +1,6 @@
 # Tiramisú recipe
 
-Inspired by [https://veganonboard.com/easy-vegan-tiramisu/](https://veganonboard.com/easy-vegan-tiramisu/).
+Inspired by: [https://veganonboard.com/easy-vegan-tiramisu/](https://veganonboard.com/easy-vegan-tiramisu/).
 
 ## Ingredients
   - Silken tofu
