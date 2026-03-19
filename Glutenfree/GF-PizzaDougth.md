@@ -1,6 +1,6 @@
 # Glutenfree Pizza Dougth recipe 
 
- ## Ingredients
+## Ingredients
 
 - 100g mays flour 
 - 100g almond flour 
