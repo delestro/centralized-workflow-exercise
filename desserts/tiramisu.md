@@ -8,7 +8,9 @@ Inspired by: [https://veganonboard.com/easy-vegan-tiramisu/](https://veganonboar
   - Savoiardi (ladyfinger cookies)
   - Coffee
 
-## Preparation
+## Instructions
+
+### Preparation
   1. Refridgerate the coconut milk over night for better separation of the creamy and liquid parts.
   2. Brew the coffee.
 
