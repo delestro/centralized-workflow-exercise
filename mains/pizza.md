@@ -1,5 +1,7 @@
 # Italian Pizza Recipe
 
+**Serves:** 2 pizzas | **Prep time:** 30 minutes (excluding rises)
+
 ## Ingredients
 
 ### For the dough:
@@ -50,5 +52,3 @@
    - Remove from oven
    - Top with fresh basil leaves
    - Serve hot and enjoy!
-
-**Serves:** 2 pizzas | **Prep time:** 30 minutes (excluding rises)
